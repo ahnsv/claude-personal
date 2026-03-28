@@ -1,0 +1,36 @@
+# Session & conversation data
+history.jsonl
+
+# Runtime / cache / temp
+cache/
+debug/
+backups/
+downloads/
+file-history/
+paste-cache/
+shell-snapshots/
+session-env/
+telemetry/
+
+# IDE integration state
+ide/
+
+# Session-specific task/plan files
+todos/
+plans/
+tasks/
+
+# Plugin runtime cache (keep config files, not downloaded content)
+plugins/cache/
+plugins/marketplaces/
+
+# Projects: keep only memory files, ignore everything else
+projects/*
+!projects/*/
+projects/*/*
+!projects/*/memory
+!projects/*/memory/**
+
+# statsig
+statsig/
+stats-cache.json
