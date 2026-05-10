@@ -10,3 +10,8 @@ Sangtae Ahn is a senior data platform engineer and product-oriented builder with
 - Prefer editing existing files over creating new ones
 - Avoid over-engineering — use the minimum complexity the task requires.
 
+## Project Management
+Use Linear https://linear.app/ to manage projects. Throughout sessions, help me provide enough context as to this project. Materialize our tasks, plans, and milestones in Linear. 
+
+Caveats:
+- Do not close or change status on your own. Ask for approval.
