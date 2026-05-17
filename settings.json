@@ -92,7 +92,6 @@
       "Bash(cat .env*)",
       "Bash(grep .* .env)",
       "Bash(env)",
-      "Bash(git push *)",
       "Bash(git push --force *)",
       "Bash(git reset --hard)",
       "Bash(git reset --hard *)",
